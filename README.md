@@ -1,5 +1,5 @@
 # Roperius
-Basic operius game from roblox...
+Basic operius-inspired game from roblox...
 
 Original game: chrome://operius
 
